@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey 👋 I'm Kevin 
+
+I have been working in Software Development and IT Infrastructure for the last 10 years.
+
+The past few years I have been living and working in Amsterdam, and currently I am taking a hiatus from work to spend a few months travelling the US with my partner Adriane before our relocation to Virginia. In that time I am trying to contribute frequently to open source projects as well as work on some small personal projects.
+
+Recently I have been working mostly as a Go developer and I love working with the language and many of the projects I have been able to use it with. I have always felt passionately about open source software, and am hoping to find a role later this year that allows me to continue working on software with an open source community. If you have a role that might be a good fit (with an ideal start date of November 2022) I would love to chat! You can always [reach me by email](mailto:kevinbarbourd@gmail.com).
 
 <!--
 **kevinbarbour/kevinbarbour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
